@@ -92,5 +92,3 @@ console.assert(
     '入力が同じなら同じ診断結果を出力する処理が正しくありません。'
 );
 
-userNameInput.onkeydown = event => {
-    if (event.key === 'Enter')
